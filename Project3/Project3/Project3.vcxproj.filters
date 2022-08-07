@@ -21,5 +21,8 @@
     <ClCompile Include="测试这样可放不（今天练习量）.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="8.7练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

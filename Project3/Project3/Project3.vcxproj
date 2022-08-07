@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="8.7练习.c" />
     <ClCompile Include="test3.c" />
     <ClCompile Include="测试这样可放不（今天练习量）.c" />
   </ItemGroup>
