@@ -27,5 +27,8 @@
     <ClCompile Include="8.8练习.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="8.9练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
