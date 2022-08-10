@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="8.10练习.c" />
     <ClCompile Include="8.7练习.c" />
     <ClCompile Include="8.8练习.c" />
     <ClCompile Include="8.9练习.c" />
