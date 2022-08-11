@@ -33,5 +33,8 @@
     <ClCompile Include="8.10练习.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="8.11练习.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
