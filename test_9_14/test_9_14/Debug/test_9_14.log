@@ -1,0 +1,4 @@
+﻿  9_14.c
+D:\VS\c_code\-exercise\test_9_14\test_9_14\9_14.c(45,8): warning C4477: “scanf”: 格式字符串“%X”需要类型“unsigned int *”的参数，但可变参数 1 拥有了类型“short *”
+D:\VS\c_code\-exercise\test_9_14\test_9_14\9_14.c(45,8): message : 请考虑在格式字符串中使用“%hX”
+  test_9_14.vcxproj -> D:\VS\c_code\-exercise\test_9_14\Debug\test_9_14.exe
